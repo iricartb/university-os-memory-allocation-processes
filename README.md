@@ -2,4 +2,4 @@
 
 <h1>Operating System</h1>
 
-Memory allocation of the processes of an operating system, interrupts and syscalls using C language.
+Memory allocation of the processes of an Operating System, interrupts and syscalls using C language.
